@@ -1,0 +1,2 @@
+waitress==2.1.2
+whitenoise==6.2.0
